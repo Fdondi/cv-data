@@ -1,0 +1,36 @@
+[
+    {
+      "category": "Embedded",
+      "items": [
+        {
+          "date": "Nov 2023",
+          "title": "BTC Arduino monitor",
+          "link": "github.com/Fdondi/arduino-btc",
+          "description": "Board blinking green for increased bitcoin price, red for decrease. Blinks faster for fast price change.",
+          "image": "arduino_btc_project.jpg"
+        }
+      ],
+      "skills": [
+        {"name": "C++ Embedded", "level": 3},
+        {"name": "Arduino", "level": 2},
+        {"name": "SSH embedded", "level": 1},
+        {"name": "Embedded Development", "level": 2}
+      ]
+    },
+    {
+      "category": "LLMs / Prompt engineering",
+      "items": [
+        {
+          "date": "Dec 2023",
+          "title": "Deutsches Wörterbuch",
+          "link": "chat.openai.com/g/g-bpvvdzIKE-deutsches-worterbuch",
+          "description": "CustomGPT for grammar, explanation in German and English, examples. Clarifies ambiguous words. Adjusts German level.",
+          "image": "worterbuch.png"
+        }
+      ],
+      "skills": [
+        {"name": "AI UX", "level": 3},
+        {"name": "Prompt engineering", "level": 3}
+      ]
+    }
+  ]
